@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Trabajo_final_herramientas_II</RootNamespace>
+    <AssemblyName>Trabajo final herramientas II</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminClases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminClases.Designer.cs">
+      <DependentUpon>AdminClases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CambioRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambioRol.Designer.cs">
+      <DependentUpon>CambioRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClienteClases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteClases.Designer.cs">
+      <DependentUpon>ClienteClases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClienteMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteMenu.Designer.cs">
+      <DependentUpon>ClienteMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAccount.Designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InstructorMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InstructorMenu.Designer.cs">
+      <DependentUpon>InstructorMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroClientes.Designer.cs">
+      <DependentUpon>RegistroClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMenu.Designer.cs">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistroInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroInstructor.Designer.cs">
+      <DependentUpon>RegistroInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesYEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesYEstadisticas.Designer.cs">
+      <DependentUpon>ReportesYEstadisticas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminClases.resx">
+      <DependentUpon>AdminClases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambioRol.resx">
+      <DependentUpon>CambioRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClienteClases.resx">
+      <DependentUpon>ClienteClases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClienteMenu.resx">
+      <DependentUpon>ClienteMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstructorMenu.resx">
+      <DependentUpon>InstructorMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroClientes.resx">
+      <DependentUpon>RegistroClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMenu.resx">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistroInstructor.resx">
+      <DependentUpon>RegistroInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesYEstadisticas.resx">
+      <DependentUpon>ReportesYEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include=".editorconfig" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wiki.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6,430,000+ Structure Pictures.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Free Vector _ Background luxury minimalist gradient style design.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login form page on blue background_ technology futuristic interface vector background.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abstract frame technology futuristic interface hud design _ Premium Vector.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
