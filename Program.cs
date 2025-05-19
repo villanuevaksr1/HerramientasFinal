@@ -16,7 +16,9 @@ namespace Trabajo_final_herramientas_II
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new RegistroClientes());
+
+            // 👇 Aquí especificas que CreateAccount sea el primer formulario
+            Application.Run(new CreateAccount());
         }
     }
 }

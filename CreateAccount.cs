@@ -16,5 +16,10 @@ namespace Trabajo_final_herramientas_II
         {
             InitializeComponent();
         }
+
+        private void CreateAccount_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

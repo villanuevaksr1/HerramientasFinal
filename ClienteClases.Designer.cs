@@ -44,30 +44,33 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label5.Location = new System.Drawing.Point(102, 53);
+            this.label5.Location = new System.Drawing.Point(76, 43);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(308, 38);
+            this.label5.Size = new System.Drawing.Size(259, 31);
             this.label5.TabIndex = 17;
             this.label5.Text = "Clases disponibles";
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(19, 94);
+            this.dataGridView1.Location = new System.Drawing.Point(14, 76);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(485, 392);
+            this.dataGridView1.Size = new System.Drawing.Size(364, 318);
             this.dataGridView1.TabIndex = 18;
             // 
             // dataGridView2
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(538, 94);
+            this.dataGridView2.Location = new System.Drawing.Point(404, 76);
+            this.dataGridView2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowHeadersWidth = 51;
             this.dataGridView2.RowTemplate.Height = 24;
-            this.dataGridView2.Size = new System.Drawing.Size(500, 392);
+            this.dataGridView2.Size = new System.Drawing.Size(375, 318);
             this.dataGridView2.TabIndex = 19;
             // 
             // label1
@@ -76,42 +79,47 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(643, 53);
+            this.label1.Location = new System.Drawing.Point(482, 43);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(320, 38);
+            this.label1.Size = new System.Drawing.Size(268, 31);
             this.label1.TabIndex = 20;
             this.label1.Text = "Clases Reservadas";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(41, 492);
+            this.button1.Location = new System.Drawing.Point(14, 411);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(139, 51);
+            this.button1.Size = new System.Drawing.Size(104, 41);
             this.button1.TabIndex = 21;
+            this.button1.Text = "RESERVAR CLASE";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(711, 492);
+            this.button2.Location = new System.Drawing.Point(533, 400);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(139, 51);
+            this.button2.Size = new System.Drawing.Size(104, 41);
             this.button2.TabIndex = 22;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // ClienteClases
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Trabajo_final_herramientas_II.Properties.Resources._6_430_000__Structure_Pictures;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1061, 595);
+            this.ClientSize = new System.Drawing.Size(796, 483);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label5);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "ClienteClases";
             this.Text = "ClienteClases";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

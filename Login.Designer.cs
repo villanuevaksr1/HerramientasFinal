@@ -28,44 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.txtLogin = new System.Windows.Forms.TextBox();
+            this.txtPassword = new System.Windows.Forms.TextBox();
+            this.btnConfirm = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtLogin
             // 
-            this.textBox1.Location = new System.Drawing.Point(405, 302);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(242, 22);
-            this.textBox1.TabIndex = 0;
+            this.txtLogin.Location = new System.Drawing.Point(304, 245);
+            this.txtLogin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtLogin.Name = "txtLogin";
+            this.txtLogin.Size = new System.Drawing.Size(182, 20);
+            this.txtLogin.TabIndex = 0;
             // 
-            // textBox2
+            // txtPassword
             // 
-            this.textBox2.Location = new System.Drawing.Point(405, 357);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(242, 22);
-            this.textBox2.TabIndex = 1;
+            this.txtPassword.Location = new System.Drawing.Point(304, 290);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(182, 20);
+            this.txtPassword.TabIndex = 1;
             // 
-            // button1
+            // btnConfirm
             // 
-            this.button1.Location = new System.Drawing.Point(442, 412);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(186, 42);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "CONTINUAR";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnConfirm.Location = new System.Drawing.Point(315, 329);
+            this.btnConfirm.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnConfirm.Name = "btnConfirm";
+            this.btnConfirm.Size = new System.Drawing.Size(140, 34);
+            this.btnConfirm.TabIndex = 2;
+            this.btnConfirm.Text = "CONTINUAR";
+            this.btnConfirm.UseVisualStyleBackColor = true;
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Trabajo_final_herramientas_II.Properties.Resources.Login_form_page_on_blue_background__technology_futuristic_interface_vector_background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1005, 623);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.ClientSize = new System.Drawing.Size(754, 506);
+            this.Controls.Add(this.btnConfirm);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.txtLogin);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Login";
             this.Text = "Login";
             this.ResumeLayout(false);
@@ -75,8 +79,8 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox txtLogin;
+        private System.Windows.Forms.TextBox txtPassword;
+        private System.Windows.Forms.Button btnConfirm;
     }
 }

@@ -28,3 +28,23 @@ C:\Users\User\Downloads\Herramientas-II-Trabajo-final-main (1)\Herramientas-II-T
 C:\Users\User\Downloads\Herramientas-II-Trabajo-final-main (1)\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.AdminMenu.resources
 C:\Users\User\Downloads\Herramientas-II-Trabajo-final-main (1)\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.RegistroInstructor.resources
 C:\Users\User\Downloads\Herramientas-II-Trabajo-final-main (1)\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.ReportesYEstadisticas.resources
+C:\Herramientas-II-Trabajo-final-main\bin\Debug\Trabajo final herramientas II.exe.config
+C:\Herramientas-II-Trabajo-final-main\bin\Debug\Trabajo final herramientas II.exe
+C:\Herramientas-II-Trabajo-final-main\bin\Debug\Trabajo final herramientas II.pdb
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo final herramientas II.csproj.AssemblyReference.cache
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.AdminClases.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.CambioRol.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.ClienteClases.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.ClienteMenu.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.CreateAccount.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.InstructorMenu.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.RegistroClientes.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.AdminMenu.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.Login.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.Properties.Resources.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.RegistroInstructor.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo_final_herramientas_II.ReportesYEstadisticas.resources
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo final herramientas II.csproj.GenerateResource.cache
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo final herramientas II.csproj.CoreCompileInputs.cache
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo final herramientas II.exe
+C:\Herramientas-II-Trabajo-final-main\obj\Debug\Trabajo final herramientas II.pdb

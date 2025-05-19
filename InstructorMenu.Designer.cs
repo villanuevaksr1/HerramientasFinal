@@ -30,12 +30,12 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(InstructorMenu));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
+            this.lbbClasesAsig = new System.Windows.Forms.LinkLabel();
+            this.llbAsist = new System.Windows.Forms.LinkLabel();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.linkLabel5 = new System.Windows.Forms.LinkLabel();
+            this.llbBack = new System.Windows.Forms.LinkLabel();
             this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -44,37 +44,40 @@
             // 
             this.pictureBox1.BackgroundImage = global::Trabajo_final_herramientas_II.Properties.Resources._6_430_000__Structure_Pictures;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(-9, -42);
+            this.pictureBox1.Location = new System.Drawing.Point(-7, -34);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(303, 660);
+            this.pictureBox1.Size = new System.Drawing.Size(227, 536);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // linkLabel1
+            // lbbClasesAsig
             // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel1.LinkColor = System.Drawing.Color.White;
-            this.linkLabel1.Location = new System.Drawing.Point(12, 176);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(237, 29);
-            this.linkLabel1.TabIndex = 3;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "👥 Clases Asignadas\r\n";
+            this.lbbClasesAsig.AutoSize = true;
+            this.lbbClasesAsig.BackColor = System.Drawing.Color.Transparent;
+            this.lbbClasesAsig.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbbClasesAsig.LinkColor = System.Drawing.Color.White;
+            this.lbbClasesAsig.Location = new System.Drawing.Point(9, 143);
+            this.lbbClasesAsig.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbbClasesAsig.Name = "lbbClasesAsig";
+            this.lbbClasesAsig.Size = new System.Drawing.Size(185, 24);
+            this.lbbClasesAsig.TabIndex = 3;
+            this.lbbClasesAsig.TabStop = true;
+            this.lbbClasesAsig.Text = "👥 Clases Asignadas\r\n";
             // 
-            // linkLabel2
+            // llbAsist
             // 
-            this.linkLabel2.AutoSize = true;
-            this.linkLabel2.BackColor = System.Drawing.Color.Black;
-            this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel2.LinkColor = System.Drawing.Color.White;
-            this.linkLabel2.Location = new System.Drawing.Point(12, 262);
-            this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(154, 29);
-            this.linkLabel2.TabIndex = 4;
-            this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "✔ Asistencia\r\n";
+            this.llbAsist.AutoSize = true;
+            this.llbAsist.BackColor = System.Drawing.Color.Black;
+            this.llbAsist.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.llbAsist.LinkColor = System.Drawing.Color.White;
+            this.llbAsist.Location = new System.Drawing.Point(9, 213);
+            this.llbAsist.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.llbAsist.Name = "llbAsist";
+            this.llbAsist.Size = new System.Drawing.Size(121, 24);
+            this.llbAsist.TabIndex = 4;
+            this.llbAsist.TabStop = true;
+            this.llbAsist.Text = "✔ Asistencia\r\n";
             // 
             // label2
             // 
@@ -82,9 +85,10 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(12, 24);
+            this.label2.Location = new System.Drawing.Point(9, 20);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(237, 25);
+            this.label2.Size = new System.Drawing.Size(193, 20);
             this.label2.TabIndex = 7;
             this.label2.Text = "INICIO / INSTRUCTOR";
             // 
@@ -94,9 +98,10 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label3.Location = new System.Drawing.Point(345, 142);
+            this.label3.Location = new System.Drawing.Point(259, 115);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(113, 29);
+            this.label3.Size = new System.Drawing.Size(88, 24);
             this.label3.TabIndex = 8;
             this.label3.Text = "¡Saludos!";
             // 
@@ -106,51 +111,55 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(496, 51);
+            this.label1.Location = new System.Drawing.Point(372, 41);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(363, 32);
+            this.label1.Size = new System.Drawing.Size(292, 26);
             this.label1.TabIndex = 9;
             this.label1.Text = "CLASES DE FITNESS 🏋️‍♀️ ";
             // 
-            // linkLabel5
+            // llbBack
             // 
-            this.linkLabel5.AutoSize = true;
-            this.linkLabel5.BackColor = System.Drawing.Color.Transparent;
-            this.linkLabel5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel5.LinkColor = System.Drawing.Color.White;
-            this.linkLabel5.Location = new System.Drawing.Point(12, 343);
-            this.linkLabel5.Name = "linkLabel5";
-            this.linkLabel5.Size = new System.Drawing.Size(107, 29);
-            this.linkLabel5.TabIndex = 10;
-            this.linkLabel5.TabStop = true;
-            this.linkLabel5.Text = "🚪Volver";
+            this.llbBack.AutoSize = true;
+            this.llbBack.BackColor = System.Drawing.Color.Transparent;
+            this.llbBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.llbBack.LinkColor = System.Drawing.Color.White;
+            this.llbBack.Location = new System.Drawing.Point(9, 279);
+            this.llbBack.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.llbBack.Name = "llbBack";
+            this.llbBack.Size = new System.Drawing.Size(85, 24);
+            this.llbBack.TabIndex = 10;
+            this.llbBack.TabStop = true;
+            this.llbBack.Text = "🚪Volver";
             // 
             // label4
             // 
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label4.Location = new System.Drawing.Point(345, 223);
+            this.label4.Location = new System.Drawing.Point(259, 181);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(707, 248);
+            this.label4.Size = new System.Drawing.Size(530, 202);
             this.label4.TabIndex = 11;
             this.label4.Text = resources.GetString("label4.Text");
             // 
             // InstructorMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Trabajo_final_herramientas_II.Properties.Resources.Free_Vector___Background_luxury_minimalist_gradient_style_design;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1082, 545);
+            this.ClientSize = new System.Drawing.Size(812, 443);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.linkLabel5);
+            this.Controls.Add(this.llbBack);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.linkLabel2);
-            this.Controls.Add(this.linkLabel1);
+            this.Controls.Add(this.llbAsist);
+            this.Controls.Add(this.lbbClasesAsig);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "InstructorMenu";
             this.Text = "InstructorMenu";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -162,12 +171,12 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.LinkLabel linkLabel1;
-        private System.Windows.Forms.LinkLabel linkLabel2;
+        private System.Windows.Forms.LinkLabel lbbClasesAsig;
+        private System.Windows.Forms.LinkLabel llbAsist;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.LinkLabel linkLabel5;
+        private System.Windows.Forms.LinkLabel llbBack;
         private System.Windows.Forms.Label label4;
     }
 }

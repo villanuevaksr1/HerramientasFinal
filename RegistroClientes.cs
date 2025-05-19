@@ -52,9 +52,9 @@ namespace Trabajo_final_herramientas_II
             using (SqlCommand command = new SqlCommand(query, connection))
             {
                 
-                command.Parameters.AddWithValue("@Nombre", txtNombre.Text);
-                command.Parameters.AddWithValue("@Apellido", txtApellido.Text);
-                command.Parameters.AddWithValue("@Telefono", txtTelefono.Text);
+                command.Parameters.AddWithValue("@Nombre", txtNameClient.Text);
+                command.Parameters.AddWithValue("@Apellido", txtLastNameClient.Text);
+                command.Parameters.AddWithValue("@Telefono", txtPhoneClient.Text);
                 command.Parameters.AddWithValue("@TipoMembresia", cmbMembresia.SelectedItem.ToString());
 
                 try
