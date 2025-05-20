@@ -114,6 +114,7 @@
     <Compile Include="ReportesYEstadisticas.Designer.cs">
       <DependentUpon>ReportesYEstadisticas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Usuario.cs" />
     <EmbeddedResource Include="AdminClases.resx">
       <DependentUpon>AdminClases.cs</DependentUpon>
     </EmbeddedResource>

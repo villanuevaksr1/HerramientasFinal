@@ -35,43 +35,45 @@
             // 
             // txtLogin
             // 
-            this.txtLogin.Location = new System.Drawing.Point(304, 245);
-            this.txtLogin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtLogin.Location = new System.Drawing.Point(405, 302);
+            this.txtLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtLogin.Name = "txtLogin";
-            this.txtLogin.Size = new System.Drawing.Size(182, 20);
+            this.txtLogin.Size = new System.Drawing.Size(241, 22);
             this.txtLogin.TabIndex = 0;
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(304, 290);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtPassword.Location = new System.Drawing.Point(405, 357);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(182, 20);
+            this.txtPassword.Size = new System.Drawing.Size(241, 22);
             this.txtPassword.TabIndex = 1;
             // 
             // btnConfirm
             // 
-            this.btnConfirm.Location = new System.Drawing.Point(315, 329);
-            this.btnConfirm.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnConfirm.Location = new System.Drawing.Point(420, 405);
+            this.btnConfirm.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnConfirm.Name = "btnConfirm";
-            this.btnConfirm.Size = new System.Drawing.Size(140, 34);
+            this.btnConfirm.Size = new System.Drawing.Size(187, 42);
             this.btnConfirm.TabIndex = 2;
             this.btnConfirm.Text = "CONTINUAR";
             this.btnConfirm.UseVisualStyleBackColor = true;
+            this.btnConfirm.Click += new System.EventHandler(this.btnConfirm_Click);
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Trabajo_final_herramientas_II.Properties.Resources.Login_form_page_on_blue_background__technology_futuristic_interface_vector_background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(754, 506);
+            this.ClientSize = new System.Drawing.Size(1005, 623);
             this.Controls.Add(this.btnConfirm);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtLogin);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Login";
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

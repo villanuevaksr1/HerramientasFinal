@@ -16,5 +16,17 @@ namespace Trabajo_final_herramientas_II
         {
             InitializeComponent();
         }
+
+        private void btnAddInst_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnbackad2_Click(object sender, EventArgs e)
+        {
+            AdminMenu adminMenu = new AdminMenu();
+            this.Hide();
+            adminMenu.Show();
+        }
     }
 }

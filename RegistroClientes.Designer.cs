@@ -42,14 +42,16 @@
             this.btnEditClient = new System.Windows.Forms.Button();
             this.btnDeleteClient = new System.Windows.Forms.Button();
             this.dgvNewClient = new System.Windows.Forms.DataGridView();
+            this.btnbackad = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvNewClient)).BeginInit();
             this.SuspendLayout();
             // 
             // btn1
             // 
-            this.btn1.Location = new System.Drawing.Point(659, 11);
+            this.btn1.Location = new System.Drawing.Point(879, 14);
+            this.btn1.Margin = new System.Windows.Forms.Padding(4);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(75, 23);
+            this.btn1.Size = new System.Drawing.Size(100, 28);
             this.btn1.TabIndex = 0;
             this.btn1.Text = "Test";
             this.btn1.UseVisualStyleBackColor = true;
@@ -57,23 +59,26 @@
             // 
             // txtNameClient
             // 
-            this.txtNameClient.Location = new System.Drawing.Point(208, 115);
+            this.txtNameClient.Location = new System.Drawing.Point(277, 142);
+            this.txtNameClient.Margin = new System.Windows.Forms.Padding(4);
             this.txtNameClient.Name = "txtNameClient";
-            this.txtNameClient.Size = new System.Drawing.Size(100, 20);
+            this.txtNameClient.Size = new System.Drawing.Size(132, 22);
             this.txtNameClient.TabIndex = 1;
             // 
             // txtLastNameClient
             // 
-            this.txtLastNameClient.Location = new System.Drawing.Point(211, 154);
+            this.txtLastNameClient.Location = new System.Drawing.Point(281, 190);
+            this.txtLastNameClient.Margin = new System.Windows.Forms.Padding(4);
             this.txtLastNameClient.Name = "txtLastNameClient";
-            this.txtLastNameClient.Size = new System.Drawing.Size(100, 20);
+            this.txtLastNameClient.Size = new System.Drawing.Size(132, 22);
             this.txtLastNameClient.TabIndex = 3;
             // 
             // txtPhoneClient
             // 
-            this.txtPhoneClient.Location = new System.Drawing.Point(208, 202);
+            this.txtPhoneClient.Location = new System.Drawing.Point(277, 249);
+            this.txtPhoneClient.Margin = new System.Windows.Forms.Padding(4);
             this.txtPhoneClient.Name = "txtPhoneClient";
-            this.txtPhoneClient.Size = new System.Drawing.Size(100, 20);
+            this.txtPhoneClient.Size = new System.Drawing.Size(132, 22);
             this.txtPhoneClient.TabIndex = 4;
             // 
             // cmbMembresia
@@ -83,17 +88,19 @@
             "Básico",
             "Premium",
             "VIP"});
-            this.cmbMembresia.Location = new System.Drawing.Point(211, 240);
+            this.cmbMembresia.Location = new System.Drawing.Point(281, 295);
+            this.cmbMembresia.Margin = new System.Windows.Forms.Padding(4);
             this.cmbMembresia.Name = "cmbMembresia";
-            this.cmbMembresia.Size = new System.Drawing.Size(100, 21);
+            this.cmbMembresia.Size = new System.Drawing.Size(132, 24);
             this.cmbMembresia.TabIndex = 5;
             // 
             // btnAddClient
             // 
             this.btnAddClient.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAddClient.Location = new System.Drawing.Point(34, 292);
+            this.btnAddClient.Location = new System.Drawing.Point(45, 359);
+            this.btnAddClient.Margin = new System.Windows.Forms.Padding(4);
             this.btnAddClient.Name = "btnAddClient";
-            this.btnAddClient.Size = new System.Drawing.Size(113, 51);
+            this.btnAddClient.Size = new System.Drawing.Size(151, 63);
             this.btnAddClient.TabIndex = 6;
             this.btnAddClient.Text = "REGISTRAR";
             this.btnAddClient.UseVisualStyleBackColor = true;
@@ -105,9 +112,10 @@
             this.label1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(37, 109);
+            this.label1.Location = new System.Drawing.Point(49, 134);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(88, 24);
+            this.label1.Size = new System.Drawing.Size(113, 29);
             this.label1.TabIndex = 7;
             this.label1.Text = "Nombres";
             // 
@@ -117,9 +125,10 @@
             this.label2.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label2.Location = new System.Drawing.Point(37, 149);
+            this.label2.Location = new System.Drawing.Point(49, 183);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 24);
+            this.label2.Size = new System.Drawing.Size(114, 29);
             this.label2.TabIndex = 8;
             this.label2.Text = "Apellidos";
             // 
@@ -129,9 +138,10 @@
             this.label3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label3.Location = new System.Drawing.Point(37, 197);
+            this.label3.Location = new System.Drawing.Point(49, 242);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(85, 24);
+            this.label3.Size = new System.Drawing.Size(110, 29);
             this.label3.TabIndex = 9;
             this.label3.Text = "Telefono";
             // 
@@ -141,9 +151,10 @@
             this.label4.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label4.Location = new System.Drawing.Point(37, 240);
+            this.label4.Location = new System.Drawing.Point(49, 295);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(174, 24);
+            this.label4.Size = new System.Drawing.Size(224, 29);
             this.label4.TabIndex = 10;
             this.label4.Text = "Tipo de membresia";
             // 
@@ -153,53 +164,67 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label5.Location = new System.Drawing.Point(35, 24);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Location = new System.Drawing.Point(47, 30);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(356, 31);
+            this.label5.Size = new System.Drawing.Size(423, 38);
             this.label5.TabIndex = 11;
             this.label5.Text = "Registro de Nuevo Cliente";
             // 
             // btnEditClient
             // 
             this.btnEditClient.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEditClient.Location = new System.Drawing.Point(162, 293);
-            this.btnEditClient.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnEditClient.Location = new System.Drawing.Point(203, 361);
+            this.btnEditClient.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnEditClient.Name = "btnEditClient";
-            this.btnEditClient.Size = new System.Drawing.Size(73, 51);
+            this.btnEditClient.Size = new System.Drawing.Size(137, 63);
             this.btnEditClient.TabIndex = 12;
             this.btnEditClient.Text = "EDITAR CLIENTE";
             this.btnEditClient.UseVisualStyleBackColor = true;
+            this.btnEditClient.Click += new System.EventHandler(this.btnEditClient_Click);
             // 
             // btnDeleteClient
             // 
             this.btnDeleteClient.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDeleteClient.Location = new System.Drawing.Point(239, 292);
-            this.btnDeleteClient.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnDeleteClient.Location = new System.Drawing.Point(346, 359);
+            this.btnDeleteClient.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnDeleteClient.Name = "btnDeleteClient";
-            this.btnDeleteClient.Size = new System.Drawing.Size(86, 51);
+            this.btnDeleteClient.Size = new System.Drawing.Size(124, 65);
             this.btnDeleteClient.TabIndex = 13;
             this.btnDeleteClient.Text = "ELIMINAR CLIENTE";
             this.btnDeleteClient.UseVisualStyleBackColor = true;
+            this.btnDeleteClient.Click += new System.EventHandler(this.btnDeleteClient_Click);
             // 
             // dgvNewClient
             // 
             this.dgvNewClient.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvNewClient.Location = new System.Drawing.Point(363, 109);
-            this.dgvNewClient.Margin = new System.Windows.Forms.Padding(2);
+            this.dgvNewClient.Location = new System.Drawing.Point(484, 134);
+            this.dgvNewClient.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dgvNewClient.Name = "dgvNewClient";
             this.dgvNewClient.RowHeadersWidth = 51;
             this.dgvNewClient.RowTemplate.Height = 24;
-            this.dgvNewClient.Size = new System.Drawing.Size(366, 235);
+            this.dgvNewClient.Size = new System.Drawing.Size(488, 289);
             this.dgvNewClient.TabIndex = 15;
+            // 
+            // btnbackad
+            // 
+            this.btnbackad.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnbackad.Location = new System.Drawing.Point(44, 447);
+            this.btnbackad.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnbackad.Name = "btnbackad";
+            this.btnbackad.Size = new System.Drawing.Size(115, 63);
+            this.btnbackad.TabIndex = 16;
+            this.btnbackad.Text = "Volver";
+            this.btnbackad.UseVisualStyleBackColor = true;
+            this.btnbackad.Click += new System.EventHandler(this.btnbackad_Click);
             // 
             // RegistroClientes
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Trabajo_final_herramientas_II.Properties.Resources._6_430_000__Structure_Pictures;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(740, 450);
+            this.ClientSize = new System.Drawing.Size(987, 554);
+            this.Controls.Add(this.btnbackad);
             this.Controls.Add(this.dgvNewClient);
             this.Controls.Add(this.btnDeleteClient);
             this.Controls.Add(this.btnEditClient);
@@ -214,6 +239,7 @@
             this.Controls.Add(this.txtLastNameClient);
             this.Controls.Add(this.txtNameClient);
             this.Controls.Add(this.btn1);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "RegistroClientes";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -239,6 +265,7 @@
         private System.Windows.Forms.Button btnEditClient;
         private System.Windows.Forms.Button btnDeleteClient;
         private System.Windows.Forms.DataGridView dgvNewClient;
+        private System.Windows.Forms.Button btnbackad;
     }
 }
 

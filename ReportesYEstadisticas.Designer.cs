@@ -28,7 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.btnbackad2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // btnbackad2
+            // 
+            this.btnbackad2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnbackad2.Location = new System.Drawing.Point(36, 356);
+            this.btnbackad2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnbackad2.Name = "btnbackad2";
+            this.btnbackad2.Size = new System.Drawing.Size(115, 63);
+            this.btnbackad2.TabIndex = 24;
+            this.btnbackad2.Text = "Volver";
+            this.btnbackad2.UseVisualStyleBackColor = true;
+            this.btnbackad2.Click += new System.EventHandler(this.btnbackad2_Click);
             // 
             // ReportesYEstadisticas
             // 
@@ -37,6 +50,7 @@
             this.BackgroundImage = global::Trabajo_final_herramientas_II.Properties.Resources._6_430_000__Structure_Pictures;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnbackad2);
             this.Name = "ReportesYEstadisticas";
             this.Text = "ReportesYEstadisticas";
             this.ResumeLayout(false);
@@ -44,5 +58,7 @@
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnbackad2;
     }
 }

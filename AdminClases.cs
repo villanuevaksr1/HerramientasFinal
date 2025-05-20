@@ -31,5 +31,12 @@ namespace Trabajo_final_herramientas_II
         {
 
         }
+
+        private void btnbackad3_Click(object sender, EventArgs e)
+        {
+            AdminMenu adminMenu = new AdminMenu();
+            this.Hide();
+            adminMenu.Show();
+        }
     }
 }

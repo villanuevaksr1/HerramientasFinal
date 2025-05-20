@@ -16,5 +16,11 @@ namespace Trabajo_final_herramientas_II
         {
             InitializeComponent();
         }
+
+        private void llbBack_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            AdminMenu adminMenu = new AdminMenu();
+            adminMenu.Show();
+        }
     }
 }

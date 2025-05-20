@@ -3,68 +3,60 @@
   "WorkspaceRootPath": "C:\\Herramientas-II-Trabajo-final-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\adminclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:adminclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\registroinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\registroinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:registroinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\adminmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:adminmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\instructormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:instructormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\cambiorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:cambiorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\reportesyestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:reportesyestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|C:\\Herramientas-II-Trabajo-final-main\\clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\clienteclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:clienteclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:clientemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\instructormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:instructormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\reportesyestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:reportesyestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\adminclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:adminclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|c:\\herramientas-ii-trabajo-final-main\\cambiorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72A383A-1E58-4C0A-9DDB-3246CAE31E59}|Trabajo final herramientas II.csproj|solutionrelative:cambiorol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,83 +66,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "CreateAccount.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\CreateAccount.cs",
               "RelativeDocumentMoniker": "CreateAccount.cs",
               "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\CreateAccount.cs [Dise\u00F1o]",
               "RelativeToolTip": "CreateAccount.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T01:14:23.561Z",
+              "WhenOpened": "2025-05-20T01:38:42.314Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:45:12.534Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs",
-              "RelativeDocumentMoniker": "AdminMenu.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AdminMenu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:18:46.497Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistroClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs",
-              "RelativeDocumentMoniker": "RegistroClientes.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "RegistroClientes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T23:12:33.154Z",
+              "WhenOpened": "2025-05-20T01:38:48.355Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RegistroInstructor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\RegistroInstructor.cs",
-              "RelativeDocumentMoniker": "RegistroInstructor.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\RegistroInstructor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "RegistroInstructor.cs [Dise\u00F1o]",
+              "Title": "AdminMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "AdminMenu.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AdminMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T15:29:16.439Z",
+              "WhenOpened": "2025-05-20T01:39:02.034Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegistroClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs",
+              "RelativeDocumentMoniker": "RegistroClientes.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:39:18.426Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroInstructor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\RegistroInstructor.cs",
+              "RelativeDocumentMoniker": "RegistroInstructor.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\RegistroInstructor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroInstructor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:39:20.156Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AdminClases.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\AdminClases.cs",
               "RelativeDocumentMoniker": "AdminClases.cs",
               "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\AdminClases.cs [Dise\u00F1o]",
               "RelativeToolTip": "AdminClases.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T15:43:10.175Z",
+              "WhenOpened": "2025-05-20T01:39:30.689Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
@@ -163,60 +155,99 @@
               "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\ReportesYEstadisticas.cs [Dise\u00F1o]",
               "RelativeToolTip": "ReportesYEstadisticas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:43:33.673Z",
+              "WhenOpened": "2025-05-20T01:39:22.395Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CambioRol.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\CambioRol.cs",
               "RelativeDocumentMoniker": "CambioRol.cs",
               "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\CambioRol.cs [Dise\u00F1o]",
               "RelativeToolTip": "CambioRol.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:32:34.196Z",
+              "WhenOpened": "2025-05-20T01:24:08.846Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ClienteMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\ClienteMenu.cs",
+              "RelativeDocumentMoniker": "ClienteMenu.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\ClienteMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:40:14.172Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "InstructorMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\InstructorMenu.cs",
               "RelativeDocumentMoniker": "InstructorMenu.cs",
               "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\InstructorMenu.cs [Dise\u00F1o]",
               "RelativeToolTip": "InstructorMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:49:50.642Z",
+              "WhenOpened": "2025-05-20T01:40:12.239Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "ClienteClases.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\ClienteClases.cs",
+              "RelativeDocumentMoniker": "ClienteClases.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\ClienteClases.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteClases.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:13:18.271Z",
+              "WhenOpened": "2025-05-20T01:41:00.282Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.Designer.cs",
+              "RelativeDocumentMoniker": "AdminMenu.Designer.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.Designer.cs",
+              "RelativeToolTip": "AdminMenu.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAiwJQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:55:56.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateAccount.cs",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\CreateAccount.cs",
-              "RelativeDocumentMoniker": "CreateAccount.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\CreateAccount.cs",
-              "RelativeToolTip": "CreateAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "AdminMenu.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs",
+              "RelativeToolTip": "AdminMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswIEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:10:26.366Z",
+              "WhenOpened": "2025-05-20T01:50:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroClientes.cs",
+              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs",
+              "RelativeDocumentMoniker": "RegistroClientes.cs",
+              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs",
+              "RelativeToolTip": "RegistroClientes.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAywFMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:43:18.139Z",
               "EditorCaption": ""
             },
             {
@@ -244,67 +275,8 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminMenu.cs",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs",
-              "RelativeDocumentMoniker": "AdminMenu.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\AdminMenu.cs",
-              "RelativeToolTip": "AdminMenu.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:28:29.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClienteMenu.cs",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\ClienteMenu.cs",
-              "RelativeDocumentMoniker": "ClienteMenu.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\ClienteMenu.cs",
-              "RelativeToolTip": "ClienteMenu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:28:05.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegistroClientes.cs",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs",
-              "RelativeDocumentMoniker": "RegistroClientes.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\RegistroClientes.cs",
-              "RelativeToolTip": "RegistroClientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:23:34.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClienteMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\ClienteMenu.cs",
-              "RelativeDocumentMoniker": "ClienteMenu.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\ClienteMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClienteMenu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:49:22.869Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClienteClases.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Herramientas-II-Trabajo-final-main\\ClienteClases.cs",
-              "RelativeDocumentMoniker": "ClienteClases.cs",
-              "ToolTip": "C:\\Herramientas-II-Trabajo-final-main\\ClienteClases.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClienteClases.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:23:33.952Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
